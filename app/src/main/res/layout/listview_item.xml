@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical">
+
+    <TextView
+        android:id="@+id/listview_visitor_name"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Juan Cajamarca"
+        android:textSize="25dp"
+        android:textColor="@color/black"
+        android:layout_marginTop="10dp"
+        android:layout_marginLeft="10dp" />
+
+    <TextView
+        android:id="@+id/listview_apartment_no"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Apartment No. 12378"
+        android:layout_marginLeft="10dp" />
+
+    <TextView
+        android:id="@+id/listview_visitor_type"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Family"
+        android:layout_marginLeft="10dp" />
+
+    <TextView
+        android:id="@+id/listview_checking_date"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="YYYY/MM/DD"
+        android:layout_marginLeft="10dp"
+        android:layout_marginBottom="10dp" />
+
+</LinearLayout>

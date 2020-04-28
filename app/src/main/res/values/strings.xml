@@ -1,0 +1,11 @@
+<resources>
+    <string name="apartment_id">Número del apartamento</string>
+    <string name="app_name">SQLite Class 1</string>
+    <string name="checkin_date">Fecha de entrada</string>
+    <string name="delete">Eliminar</string>
+    <string name="save">Guardar</string>
+    <string name="visitor_id">Identificación</string>
+    <string name="visitor">Visitante</string>
+    <string name="visitor_name">Nombre del visitante</string>
+    <string name="visitor_type">Tipo de visitante</string>
+</resources>
